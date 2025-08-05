@@ -5,7 +5,8 @@ Here's a complete and well-structured `README.md` file tailored for your **Cheat
 ```md
 # 🕵️‍♂️ Cheating Detector
 
-A web-based application that detects suspicious activity patterns during online tests by analyzing event logs from CSV files. This tool helps educators and examiners identify potential cheating behavior without using invasive video surveillance.
+A web-based application that detects suspicious activity patterns during online tests by analyzing event logs from CSV files.
+This tool helps educators and examiners identify potential cheating behavior without using invasive video surveillance.
 
 ---
 
