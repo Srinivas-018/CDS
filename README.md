@@ -29,27 +29,6 @@ A web-based application that detects suspicious activity patterns during online 
 
 ---
 
-## 📁 File Structure
-
-```
-
-cheating\_detector/
-├── app.py                  # Main Flask app
-├── analysis/
-│   └── detector.py         # Core cheating detection logic
-├── templates/
-│   ├── index.html          # File upload page
-│   ├── reports.html        # Summary of user behavior
-│   └── user\_detail.html    # Individual user analysis
-├── static/                 # Optional (images, CSS, JS)
-├── uploads/                # Uploaded CSV files (auto-created)
-├── file.csv                # Sample test activity log
-├── cloud.png               # Sample asset
-└── README.md               # You're here
-
-````
-
----
 
 ## 🧪 Sample Input Format (CSV)
 
